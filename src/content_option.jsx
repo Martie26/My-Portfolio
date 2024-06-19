@@ -55,7 +55,7 @@ const worktimeline = [{
         jobtitle: "Administrator & Bookkeeper",
         where: "Barwise Maintenance & Construction",
         date: "2021-2023",
-        jobdesciption: "Key responsibilities were: Issuing quotations & invoices; doing all neccessary administration paperwork; confirm orders and payments; keep all of the books updated and upload data to Quickbooks.",
+        jobdesciption: "Key responsibilities were: Issuing quotations & invoices; doing all necessary administration paperwork; confirming orders and payments; keep all of the books updated and upload data to QuickBooks.",
     },
 ];
 
